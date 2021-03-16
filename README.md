@@ -1,12 +1,9 @@
 # React COVID Tracker
 
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
+This Covid-19 tracker was created for education purpose using HTML, CSS, Reactjs, Some API to get the covid data, firebase, etc.
+1.	Open the folder in vscode or any other ide.
+2.	Then in the vscode, open the terminal and run “npm start” and then press go live at the bottom of the vscode. Then the app will open in the new browser.
 
-Check out our `Profit With JavaScript Course`    :point_down: 
-
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=20-july-live-sonny-naz-covid-19-tracker&utm_campaign=live-everyday&utm_term=warm)
-
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/)
 
 ## Available Scripts
 
